@@ -1,0 +1,12 @@
+.github {
+  display: flex;
+  gap: 3rem;
+  font-family: vani;
+}
+.github-prop {
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+}
+.avatar {
+}
